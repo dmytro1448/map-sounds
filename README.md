@@ -1,3 +1,3 @@
-# zzovni voice pack
+# map sounds
 
-Server resource pack (voice clips) for a private Minecraft 1.21.10 fan map. Download from Releases.
+Server resource pack for a private Minecraft 1.21.10 map. Download from Releases.
